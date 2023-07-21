@@ -10,7 +10,7 @@ z-index: 9;
 background:#141124 ;
 }
 .navigation{
-   display: flex;
+  display: flex;
     align-items: center;
 justify-content: space-between;
 
