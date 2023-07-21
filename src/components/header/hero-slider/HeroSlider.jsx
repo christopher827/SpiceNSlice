@@ -2,7 +2,6 @@ import React from "react";
 import { Container } from "reactstrap";
 import Slider from 'react-slick'
 import {sliderData} from '../../../assets/fake-data/slider'
-//import Slider from "react-slick/lib/slider";
 import "./slider.css"
 
 function HeroSlider() {
@@ -24,7 +23,7 @@ sliderData.map(item=>(
  <div className="slider__content w-50 ps-2">
 <h2 className="mb-3">{item.title}</h2>
 <p >{item.desc}</p>
-<button className="btn">Explore Food</button>
+<button className="btn">Explore Our Food</button>
 </div>
 <div className="slider__img w-50" >
 <img src={item.imgUrl} alt="" className="w-100"/>
