@@ -75,7 +75,7 @@ cursor: pointer;
     z-index: 1000;
     color: #141124;
     font-size: .8rem;
-    font-weight: 700;
+   font-weight: 700;
 }
 /*===============make the navbar responsive*/
 @media only screen and (max-width:991px) {
