@@ -22,7 +22,7 @@ margin-bottom: 0;
  display: flex;
  align-items: center;
  margin-bottom: 0;
-  column-gap: 2rem;
+ column-gap: 2rem;
     list-style: none;
 }
 .nav__item a{
