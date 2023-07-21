@@ -19,7 +19,7 @@ justify-content: space-between;
 margin-bottom: 0;
 }
 .nav__list{
-    display: flex;
+   display: flex;
     align-items: center;
     margin-bottom: 0;
     column-gap: 2rem;
