@@ -38,7 +38,7 @@ function Header() {
         </div>
 
         <div className="nav__menu"  ref={menuRef}>
-            <div className="nav__list__wrapper d-flex align-items-center  gap-5">
+            <div className="nav__list__wrapper d-flex align-items-center gap-5">
             <ul className="nav__list">
 {
 navLinks.map((item,index)=>(
