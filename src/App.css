@@ -22,10 +22,9 @@ font-size: 1rem;
 color: #c4c4c4;
 line-height: 30px;
 font-family: "Rubik",sans-serif;
-
 }
 a{
-    text-decoration: none;
+text-decoration: none;
     color: unset;
 }
 i{
