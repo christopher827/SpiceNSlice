@@ -22,7 +22,7 @@ flex-direction: column;
 .slider__content{
 width: 100% !important;
  }
-    .slider__img{
+   .slider__img{
 display: none;
 }
 }
