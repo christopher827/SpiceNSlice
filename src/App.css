@@ -9,7 +9,7 @@ box-sizing: border-box;
 background-color: #141124;
 }
 section,footer{
-    padding: 70px 0px;
+padding: 70px 0px;
 }
 h1,h2{
     font-size: 2rem;
