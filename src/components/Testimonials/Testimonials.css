@@ -16,7 +16,7 @@ margin-bottom: 15px !important;
 }
 }
 @media only screen and(max-width:767px){
-    .slider__wrapper{
+.slider__wrapper{
         flex-direction: column;
     }
     .slider__content{
