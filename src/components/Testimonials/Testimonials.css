@@ -7,7 +7,7 @@ font-size:0.8rem;
 color: #fff;
 }
 @media only screen and(max-width:992px) {
-    .slider__content h2{
+.slider__content h2{
         font-size: 1.5rem;
         margin-bottom: 15px !important;
     }
