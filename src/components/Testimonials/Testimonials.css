@@ -19,7 +19,7 @@ font-size: .8rem;
 .slider__wrapper{
 flex-direction: column;
 }
-    .slider__content{
+.slider__content{
         width: 100% !important;
     }
     .slider__img{
