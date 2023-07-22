@@ -20,7 +20,7 @@ font-size: .8rem;
 flex-direction: column;
 }
 .slider__content{
-        width: 100% !important;
+width: 100% !important;
     }
     .slider__img{
 display: none;
