@@ -4,7 +4,7 @@ font-size: 1.7rem;
 }
 .single__testimonial p{
 font-size:0.8rem;
-    color: #fff;
+color: #fff;
 }
 @media only screen and(max-width:992px) {
     .slider__content h2{
